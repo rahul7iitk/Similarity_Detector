@@ -1,4 +1,4 @@
-# Simiarity_Detector
+# Similarity_Detector
 **A basic Nodejs API developed on Express for calculating similarity percentage/plagiarism percentage between original and reference code.**
 
 This is a simple plagiarism detection tool for python code, the basic idea is to normalize python AST representation and use difflib to get the modification from referenced code to candidate code. The plagiarism defined in pycode_similar is how many referenced code is plagiarized by candidate code, which means swap referenced code and candidate code will get different result.
