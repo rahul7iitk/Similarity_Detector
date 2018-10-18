@@ -20,3 +20,4 @@ and in the body of the request upload your two python files with the argument na
 - use **.txt** version of the files, don't upload .py files.
 - make sure the files are compiled correctly, should not have syntactical errors.
 
+![alt text](sample.png "A screenshot using Postman for POST request")
